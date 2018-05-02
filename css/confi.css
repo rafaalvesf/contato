@@ -1,0 +1,19 @@
+body{
+	background: linear-gradient(to right, #6a3093, #a044ff);
+
+}
+.contato{
+	margin: 0 auto;
+	width: 500px;
+	height: 600px;
+	background-color: white;
+	border: 20px solid white;
+	border-radius: 1%;
+}
+.titulo{
+	text-align: center;
+	margin-bottom: 50px;
+}
+textarea{
+	height: 200px;
+}
